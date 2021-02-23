@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="shortcut icon" type="image/png" href="./assets/imgs/favicon.ico" />
+  <meta name="keywords" content="rosajen27, Jennifer Rosa, Front End Web Developer, HTML, CSS, JavaScript, MERN" />
+  <meta name="description" content="Jennifer Rosa | Front End Developer" />
+  <title>Jennifer Rosa | Front End Web Developer</title>
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <script src="https://unpkg.com/scrollreveal"></script>
+  <script>
+    ScrollReveal({ reset: false });
+  </script>
+</head>
+
+<body>
+  <div id="top"></div>
+  <!-- HERO -->
+  <div id="hero" class="jumbotron">
+    <div class="container">
+      <h1 class="hero-title" class="load-hidden">
+        Hi, my name is <span class="text-color-main">Jennifer Rosa.</span>
+        <br />
+        I build things for the web.
+      </h1>
+      <p class="hero-cta" class="load-hidden">
+        <a class="cta-btn cta-btn--hero" href="#about">Learn More</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- ABOUT -->
+  <section id="about">
+    <div class="container">
+      <h2 class="section-title">
+        About me
+      </h2>
+      <div class="row about-wrapper">
+        <div class="col-md-6 col-sm-12">
+          <div class="about-wrapper image">
+            <img class="img-fluid" height="auto" width="400px" src="./assets/imgs/profile.png" alt="Profile Image" />
+          </div>
+        </div>
+        <div class="col-md-6 col-sm-12">
+          <div class="about-wrapper info">
+            <p class="about-wrapper info-text">
+              Hello! I'm Jennifer, a certified k-6 teacher who has transitioned into Web Development.
+              I enjoy creating things that live on the internet and turning problems into beatiful designs.
+              I primarily focus on HTML, CSS, and JavaScript.
+              While I love development and design, I'm also comfortable using back-end tech including NodeJS, Express
+              and MongoDB.
+              <br><br>
+              Transitioning to tech has enabled me to continue my lifelong passion for learning and embrace my status as
+              a forever student.
+              I love to work as part of a dynamic team and find the challenges that programming brings very exciting.
+              <br><br>
+              Here are a few technologies I've been working with recently:
+            </p>
+            <ul class="tech-list">
+              <li>HTML</li>
+              <li>Node.js</li>
+              <li>CSS</li>
+              <li>Express.js</li>
+              <li>BootStrap</li>
+              <li>MongoDB</li>
+              <li>JavaScript</li>
+              <li>React</li>
+              <li>jQuery</li>
+            </ul>
+            <span class="d-flex mt-3">
+              <a target="_blank" class="cta-btn cta-btn--resume" href="./assets/imgs/Jennifer-Rosa-Resume-2021.pdf">
+                Resume
+              </a>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROJECT SECTION -->
+  <section id="projects">
+    <div class="container">
+      <div class="project-wrapper">
+        <h2 class="section-title dark-blue-text">
+          Projects
+          <br><br>
+          <p>For more up to the minute work, please visit my <a href="https://github.com/rosajen27">GitHub</a></p>
+        </h2>
+
+        <!-- PROJECT 1 -->
+        <div class="row">
+          <div class="col-lg-4 col-sm-12">
+            <div class="project-wrapper text">
+              <h3 class="project-wrapper text-title">Weather Dashboard</h3>
+              <div>
+                <p class="mb-4">
+                  A weather dashboard that allows the user to search for the current and five day forecast of their
+                  searched city. Utilizes OpenWeather API to retrieve weather data for cities and incorporates
+                  localStorage.
+                  <br><br>
+                  HTML, CSS, Bootstrap, JavaScript, jQuery, OpenWeather API
+                </p>
+              </div>
+              <a target="_blank" class="cta-btn cta-btn--hero" href="https://rosajen27.github.io/weather-dashboard/">
+                See Live
+              </a>
+              <a target="_blank" class="cta-btn text-color-main" href="https://github.com/rosajen27/weather-dashboard">
+                Source Code
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-8 col-sm-12">
+            <div class="project-wrapper image">
+              <a href="https://rosajen27.github.io/weather-dashboard/" target="_blank">
+                <div>
+                  <img class="img-fluid" src="./assets/imgs/portfolio2.png" />
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- PROJECT 2 -->
+        <div class="row">
+          <div class="col-lg-4 col-sm-12">
+            <div class="project-wrapper text">
+              <h3 class="project-wrapper text-title">The Tasty Burger</h3>
+              <div>
+                <p class="mb-4">
+                  A restaurant app that allows the user to order the burger they’d like to eat. When the user submits a
+                  burger’s name, the app will display the burger on the left side of the page, waiting to be devoured.
+                  When the order is ready, the burger will move to the right side of the page. This app will store every
+                  burger in a database, whether devoured or not.
+                  <br><br>
+                  HTML, CSS, JavaScript, Node.js, Express.js, MySQL, Heroku, Handlebars
+                </p>
+              </div>
+              <a target="_blank" class="cta-btn cta-btn--hero" href="http://rosa-burgerv2.herokuapp.com/">
+                See Live
+              </a>
+              <a target="_blank" class="cta-btn text-color-main" href="https://github.com/rosajen27/burger">
+                Source Code
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-8 col-sm-12">
+            <div class="project-wrapper image">
+              <a href="http://rosa-burgerv2.herokuapp.com/" target="_blank">
+                <div>
+                  <img class="img-fluid" src="./assets/imgs/portfolio1.png" />
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- PROJECT 3 -->
+        <div class="row">
+          <div class="col-lg-4 col-sm-12">
+            <div class="project-wrapper text">
+              <h3 class="project-wrapper text-title">TripReel</h3>
+              <div>
+                <p class="mb-4">
+                  Worked collaboratively with a team of six coders to develop a mobile movie app that runs in the
+                  browser and allows the user to search for relevant movie information such as title, poster, runtime,
+                  plot, metascore, and where to watch.
+                  <br><br>
+                  HTML, CSS, JavaScript, jQuery, Omdb API, Utelly API
+                </p>
+              </div>
+              <a target="_blank" class="cta-btn cta-btn--hero" href="https://rosajen27.github.io/trip-reel/">
+                See Live
+              </a>
+              <a target="_blank" class="cta-btn text-color-main" href="https://github.com/rosajen27/trip-reel">
+                Source Code
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-8 col-sm-12">
+            <div class="project-wrapper image">
+              <a href="https://rosajen27.github.io/trip-reel/" target="_blank">
+                <div>
+                  <img class="img-fluid" src="./assets/imgs/portfolio3.png" />
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <div class="container">
+      <h2 class="section-title">
+        Contact
+      </h2>
+      <div class="contact-wrapper">
+        <p class="contact-wrapper text">
+          Feel free to reach out if you have any questions, think we could work together, or just want to connect.
+        </p>
+        <a target="_blank" class="cta-btn cta-btn--resume" href="mailto:rosajen27@gmail.com">rosajen27@gmail.com</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer navbar-static-bottom">
+    <div class="container">
+      <a href="#top" class="back-to-top">
+        <i class="fa fa-angle-up fa-2x" aria-hidden="true"></i>
+      </a>
+      <div class="social-links">
+        <a href="https://linkedin.com/in/rosajen27" target="_blank">
+          <i class="fa fa-linkedin fa-inverse"></i>
+        </a>
+        <a href="https://github.com/rosajen27" target="_blank">
+          <i class="fa fa-github fa-inverse"></i>
+        </a>
+      </div>
+
+      <hr />
+
+      <p class="footer text">
+        © 2021 Jennifer Rosa
+        </a>
+      </p>
+    </div>
+  </footer>
+</body>
+<script src="./assets/js/index.js"></script>
+
+</html>
