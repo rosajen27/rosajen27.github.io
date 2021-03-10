@@ -1,4 +1,4 @@
-# Jennifer Rosa | Front End Web Developer
+# Jennifer Rosa | Web Developer
 
 My Web Development Portfolio
 
