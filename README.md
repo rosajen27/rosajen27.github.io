@@ -1,6 +1,6 @@
-# Jennifer Rosa | Web Developer
+# 👋 Hello World! I'm <a href="https://rosajen27.github.io/">Jennifer</a>.
 
-Hello World! I'm <a href="https://rosajen27.github.io/">Jennifer</a>, a Front End Web Developer with experience in the education industry. I enjoy creating things that live on the internet and turning problems into beautiful designs. I primarily focus on HTML, CSS, and JavaScript. While I love development and design, I'm also comfortable using back-end tech including NodeJS, Express and MongoDB.
+I'm a Front End Web Developer with a background in Education. I enjoy creating things that live on the internet and turning problems into beautiful designs. I primarily focus on HTML, CSS, and JavaScript. While I love development and design, I'm also comfortable using back-end tech including NodeJS, Express and MongoDB.
 
 Transitioning to web development has enabled me to continue my lifelong passion for learning and embrace my status as a forever student. I love to work as part of a dynamic team and find the challenges that programming brings very exciting.
 
