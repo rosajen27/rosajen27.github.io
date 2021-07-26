@@ -5,6 +5,10 @@
   font-family: "Inter", sans-serif;
 }
 
+html.sr .load-hidden {
+  visibility: hidden;
+}
+
 a.nav-link,
 footer a {
   color: #fff;
