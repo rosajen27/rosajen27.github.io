@@ -6,7 +6,7 @@ I'm a Front End Web Developer with a background in Education and a life-long ded
 - 🌱 I’m currently studying: JavaScript
 - 🔍 I’m looking to: transition into a Front End Web Development role
 - ⚡ Fun fact: ¡Yo hablo español!
-- 📬 How to reach me: linkedin.com/in/rosajen27
+- 📬 How to reach me: <a href="https://linkedin.com/in/rosajen27">linkedin.com/in/rosajen27</a>
 
 <br>
 
