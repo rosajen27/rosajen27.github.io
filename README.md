@@ -1,12 +1,6 @@
 ### ✨ Hello, World! I'm <a href="https://rosajen27.github.io">Jennifer Rosa</a>.
 
-I'm a Front End Web Developer with a background in Education and a life-long dedication to learning. I enjoy creating things that live on the internet and turning problems into beautiful designs. I primarily focus on HTML, CSS, and JavaScript. While I love development and design, I'm also comfortable using back-end tech including Node.js, Express.js and MongoDB. Transitioning to web development has enabled me to continue my passion for learning and embrace my status as a forever student. I love to work as part of a dynamic team and find the challenges that programming brings very exciting.
-
-- 🖥️ I’m currently working on: <a href="https://github.com/rosajen27/100-days-of-code/blob/master/log.md">100 Days of Code</a>
-- 🌱 I’m currently studying: JavaScript
-- 🔍 I’m looking to: transition into a Front End Web Development role
-- ⚡ Fun fact: ¡Yo hablo español!
-- 📬 How to reach me: <a href="https://linkedin.com/in/rosajen27">linkedin.com/in/rosajen27</a>
+I'm a Front End Web Developer with a background in Education and a life-long dedication to learning. I enjoy creating things that live on the internet and turning problems into beautiful designs. I primarily focus on HTML, CSS, and JavaScript. While I love front end development and design, I'm also comfortable using back-end tech including Node.js, Express.js and MongoDB. Transitioning to web development has enabled me to continue my passion for learning and embrace my status as a forever student. I love to work as part of a dynamic team and find the challenges that programming brings very exciting.
 
 <br>
 
