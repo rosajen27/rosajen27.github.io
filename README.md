@@ -1,6 +1,6 @@
 ## ✨ Hello, World! I'm <a href="https://rosajen27.github.io">Jen</a>.
 
-I'm a front end web developer with a background in education and a life-long dedication to learning. I enjoy creating things that live on the internet and turning problems into beautiful designs. Transitioning to web development has enabled me to continue my passion for learning and embrace my status as a forever student. I love to work as part of a dynamic team and find the challenges that programming brings very exciting!
+I'm a Software Engineer with a background in Education and a life-long dedication to learning. I enjoy creating things that live on the internet and turning problems into beautiful designs. Transitioning to web development has enabled me to continue my passion for learning and embrace my status as a forever student. I love to work as part of a dynamic team and find the challenges that programming brings very exciting!
 
 - Portfolio: <a href="https://rosajen27.github.io">rosajen27.github.io</a>
 - Linkedin: <a href="https://linkedin.com/in/rosajen27">linkedin.com/in/rosajen27</a>
