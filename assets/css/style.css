@@ -9,7 +9,10 @@ html.sr .load-hidden {
   visibility: hidden;
 }
 
-a.nav-link,
+a.nav-link {
+  color: #212529;
+}
+
 footer a {
   color: #fff;
 }
@@ -22,4 +25,8 @@ h3 {
 
 i {
   padding: 0 5px 0 5px;
+}
+
+#hero {
+  height: 100vh;
 }
